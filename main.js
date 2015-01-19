@@ -47,13 +47,7 @@
 // }
 
 for (var i=0; i<=3; i++) {
-	for (var x=0;x<=3;x++) {
+	for (var x=0; x<=3; x++) {
 	console.log(x);
-	x++;
-	console.log(x);
-	x++;
-	console.log(x);
-	x++;
-	console.log(x);
-}
+	}
 }
